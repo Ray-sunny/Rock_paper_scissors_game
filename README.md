@@ -9,6 +9,7 @@ A Rock-Paper-Scissors game with score tracking, history, and winning rate calcul
 ### How to Run
 1. Clone this repository.
 2. Run the following command in your terminal:
+   ```py
    python rock_paper_scissors.py
-
+   ```
 
