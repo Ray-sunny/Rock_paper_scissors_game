@@ -16,11 +16,9 @@ A Rock-Paper-Scissors game with score tracking, history, and winning rate calcul
 
    #### Example Output
       ```
-      please enter your gesture s(scissors) r(Rock) p(paper):
-      your gesture: paper
-      computer gesture: rock
-      You win!
-      Your scores: 3, Computer scores: 1, Even scores: 0 Your winning rate: 75.00%
+      Please enter your gesture s(scissors) r(Rock) p(paper): Your gesture: paper Computer gesture: rock You win! Your scores: 3, Computer scores: 1, Even scores: 0 Your winning rate: 75.00%
+
+
       ```
 
 
