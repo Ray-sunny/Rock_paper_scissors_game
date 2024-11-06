@@ -2,9 +2,11 @@
 A Rock-Paper-Scissors game with score tracking, history, and winning rate calculation, built in Python.
 
 ### Features
-- Multiple rounds of play
-- Player and computer score tracking with a final win rate calculation
-- Ability to replay the game after each session
+- Choose between Rock, Paper, or Scissors.
+- Play up to 3 rounds per game, and choose to continue playing.
+- Track your score, computer's score, and the number of ties.
+- View a history of your scores for each game round.
+- Calculate and display your winning rate at the end of all rounds.
 
 ### How to Run
 1. Clone this repository.
